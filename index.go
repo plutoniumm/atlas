@@ -11,7 +11,7 @@ import (
 	"sync"
 
 	"google.golang.org/protobuf/proto"
-	pb "manav.ch/iwps/proto"
+	pb "manav.ch/atlas/proto"
 )
 
 type JSN = map[string]interface{}

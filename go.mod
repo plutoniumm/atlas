@@ -1,4 +1,4 @@
-module manav.ch/iwps
+module manav.ch/atlas
 
 go 1.23.5
 
